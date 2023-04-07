@@ -1,3 +1,0 @@
-D:/project/mine/C-Programming/c-p-c11/cmake-build-debug/CMakeFiles/c_p_c11.dir
-D:/project/mine/C-Programming/c-p-c11/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/project/mine/C-Programming/c-p-c11/cmake-build-debug/CMakeFiles/rebuild_cache.dir

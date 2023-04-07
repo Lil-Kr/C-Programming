@@ -1,4 +1,0 @@
-ToolSet: 16.0 (local)@D:\install\soft_install\Microsoft_Visual_Studio\2019\Community
-Options: msvc.arch=amd64
-
-Options:-DCMAKE_MAKE_PROGRAM=D:/install/soft_install/JetBrains/CLion_2022_3_2/bin/ninja/win/x64/ninja.exe

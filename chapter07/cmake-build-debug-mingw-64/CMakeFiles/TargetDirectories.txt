@@ -1,6 +1,0 @@
-D:/project/mine/C-Programming/imooc/chapter07/cmake-build-debug-mingw-64/CMakeFiles/01.pointer_basic.c.dir
-D:/project/mine/C-Programming/imooc/chapter07/cmake-build-debug-mingw-64/CMakeFiles/03.pointer_values.c.dir
-D:/project/mine/C-Programming/imooc/chapter07/cmake-build-debug-mingw-64/CMakeFiles/04.pointer_operations.c.dir
-D:/project/mine/C-Programming/imooc/chapter07/cmake-build-debug-mingw-64/CMakeFiles/demo.c.dir
-D:/project/mine/C-Programming/imooc/chapter07/cmake-build-debug-mingw-64/CMakeFiles/edit_cache.dir
-D:/project/mine/C-Programming/imooc/chapter07/cmake-build-debug-mingw-64/CMakeFiles/rebuild_cache.dir

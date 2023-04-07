@@ -1,5 +1,0 @@
-D:/project/mine/C-Programming/imooc/chapter06/cmake-build-debug/CMakeFiles/01.array_basic.c.dir
-D:/project/mine/C-Programming/imooc/chapter06/cmake-build-debug/CMakeFiles/02.array_limits.c.dir
-D:/project/mine/C-Programming/imooc/chapter06/cmake-build-debug/CMakeFiles/03.string.c.dir
-D:/project/mine/C-Programming/imooc/chapter06/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/project/mine/C-Programming/imooc/chapter06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
