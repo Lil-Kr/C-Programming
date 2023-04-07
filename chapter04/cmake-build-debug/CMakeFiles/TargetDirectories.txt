@@ -1,0 +1,5 @@
+D:/project/mine/C-Programming/imooc/chapter04/cmake-build-debug/CMakeFiles/02.proto_type.c.dir
+D:/project/mine/C-Programming/imooc/chapter04/cmake-build-debug/CMakeFiles/04.varargs.c.dir
+D:/project/mine/C-Programming/imooc/chapter04/cmake-build-debug/CMakeFiles/05.recursion.c.dir
+D:/project/mine/C-Programming/imooc/chapter04/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/mine/C-Programming/imooc/chapter04/cmake-build-debug/CMakeFiles/rebuild_cache.dir

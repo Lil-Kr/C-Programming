@@ -1,0 +1,11 @@
+D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug-mingw-64/CMakeFiles/00.helloworld.c.dir
+D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug-mingw-64/CMakeFiles/01_data_types.c.dir
+D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug-mingw-64/CMakeFiles/02.data_types_char.c.dir
+D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug-mingw-64/CMakeFiles/03.data_types_float.c.dir
+D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug-mingw-64/CMakeFiles/04.variable.c.dir
+D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug-mingw-64/CMakeFiles/05.constant.c.dir
+D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug-mingw-64/CMakeFiles/06.operators.c.dir
+D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug-mingw-64/CMakeFiles/07.condition.c.dir
+D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug-mingw-64/CMakeFiles/08.loop.c.dir
+D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug-mingw-64/CMakeFiles/edit_cache.dir
+D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug-mingw-64/CMakeFiles/rebuild_cache.dir

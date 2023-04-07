@@ -1,0 +1,26 @@
+# ninja log v5
+0	192	6979768261817156	CMakeFiles/main.c.dir/main.c.obj	fa5688a4c8d599da
+193	440	6979768264159304	main.c.exe	5fe1bc4dcff93369
+2	99	7025427593095719	CMakeFiles/03.pointer_values.c.dir/03.pointer_values.c.obj	ae8e557e808ea486
+1	79	7025429932969636	CMakeFiles/04.pointer_operations.c.dir/04.pointer_operations.c.obj	4b6d99ab4fac224f
+1	401	7025430663245986	build.ninja	2a6a7a1e1cd135d
+2	89	7025428791145991	CMakeFiles/01.pointer_basic.c.dir/01.pointer_basic.c.obj	409a38ae1f99b864
+88	188	7025404307764496	01.pointer_basic.c.exe	38d9e89f18a4525b
+100	202	7025427594101340	03.pointer_values.c.exe	ee97716dd5d668a2
+0	85	6979944139115861	CMakeFiles/04.demo.c.dir/04.demo.c.obj	9b6b32659684e46a
+85	187	6979944140102544	04.demo.c.exe	e1033a1cbab2041
+79	209	7025429934215503	04.pointer_operations.c.exe	cd61a5ab655a899d
+2	87	7025433245116281	CMakeFiles/04.pointer_operations.c.dir/04.pointer_operations.c.obj	4b6d99ab4fac224f
+87	184	7025433246058056	04.pointer_operations.c.exe	cd61a5ab655a899d
+2	91	7025433372254897	CMakeFiles/04.pointer_operations.c.dir/04.pointer_operations.c.obj	4b6d99ab4fac224f
+92	191	7025433373201329	04.pointer_operations.c.exe	cd61a5ab655a899d
+2	93	7025434209289944	CMakeFiles/04.pointer_operations.c.dir/04.pointer_operations.c.obj	4b6d99ab4fac224f
+93	190	7025434210256668	04.pointer_operations.c.exe	cd61a5ab655a899d
+2	84	7025435022057471	CMakeFiles/04.pointer_operations.c.dir/04.pointer_operations.c.obj	4b6d99ab4fac224f
+84	184	7025435023023239	04.pointer_operations.c.exe	cd61a5ab655a899d
+1	80	7025435252250825	CMakeFiles/04.pointer_operations.c.dir/04.pointer_operations.c.obj	4b6d99ab4fac224f
+80	173	7025435253137752	04.pointer_operations.c.exe	cd61a5ab655a899d
+2	85	7025435848787495	CMakeFiles/04.pointer_operations.c.dir/04.pointer_operations.c.obj	4b6d99ab4fac224f
+86	191	7025435849816991	04.pointer_operations.c.exe	cd61a5ab655a899d
+1	85	7025439746828956	CMakeFiles/04.pointer_operations.c.dir/04.pointer_operations.c.obj	4b6d99ab4fac224f
+86	184	7025439747785749	04.pointer_operations.c.exe	cd61a5ab655a899d

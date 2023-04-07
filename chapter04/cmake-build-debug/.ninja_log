@@ -1,0 +1,5 @@
+# ninja log v5
+1	144	7024725663507939	build.ninja	fb2b049cbd4a3b90
+290	628	6979206275343674	00.helloworld.c.exe	9b272179e1be3bd1
+0	118	6979599098212153	CMakeFiles/05.recursion.c.dir/05.recursion.c.obj	393166119ebbcd95
+119	418	6979599101152333	05.recursion.c.exe	af9d5bd194f48f37

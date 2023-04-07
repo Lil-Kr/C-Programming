@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chapter03",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "00.helloworld.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00.helloworld.c-Debug-15b0046ce9477d90780f.json",
+					"name" : "00.helloworld.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_data_types.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_data_types.c-Debug-d1445a8ae01325d8bc00.json",
+					"name" : "01_data_types.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02.data_types_char.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02.data_types_char.c-Debug-6fff42374af020256b59.json",
+					"name" : "02.data_types_char.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03.data_types_float.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03.data_types_float.c-Debug-903cec82f322ec7da89c.json",
+					"name" : "03.data_types_float.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04.variable.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04.variable.c-Debug-2bfc1b36b47a44a86228.json",
+					"name" : "04.variable.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05.constant.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05.constant.c-Debug-dcc99539e2ecc122ad6b.json",
+					"name" : "05.constant.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06.operators.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06.operators.c-Debug-e05d824c54ec6205977b.json",
+					"name" : "06.operators.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07.condition.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07.condition.c-Debug-77eb51350675989343ce.json",
+					"name" : "07.condition.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08.loop.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08.loop.c-Debug-0933c320e95471539d65.json",
+					"name" : "08.loop.c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/project/mine/C-Programming/imooc/chapter03/cmake-build-debug",
+		"source" : "D:/project/mine/C-Programming/imooc/chapter03"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

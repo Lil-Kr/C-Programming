@@ -1,0 +1,7 @@
+# ninja log v5
+0	82	7023634460968521	CMakeFiles/chapter01.dir/main.c.obj	6828695dd009129f
+83	186	7023634461967615	chapter01.exe	cdfe203b159d3e13
+1	87	7023646246364547	CMakeFiles/main.c.dir/main.c.obj	d34a8a0427fc2b84
+88	190	7023646247356958	main.c.exe	5fe1bc4dcff93369
+1	89	7023652554101890	CMakeFiles/main.c.dir/main.c.obj	d34a8a0427fc2b84
+89	193	7023652555080540	main.c.exe	5fe1bc4dcff93369

@@ -1,0 +1,3 @@
+D:/project/mine/C-Programming/imooc/chapter01/cmake-build-debug/CMakeFiles/main.c.dir
+D:/project/mine/C-Programming/imooc/chapter01/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/mine/C-Programming/imooc/chapter01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

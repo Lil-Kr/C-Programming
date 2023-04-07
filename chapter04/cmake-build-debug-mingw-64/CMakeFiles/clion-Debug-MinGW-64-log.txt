@@ -1,0 +1,4 @@
+D:\install\soft_install\JetBrains\CLion_2022_3_2\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/install/soft_install/JetBrains/CLion_2022_3_2/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\project\mine\C-Programming\imooc\chapter04 -B D:\project\mine\C-Programming\imooc\chapter04\cmake-build-debug-mingw-64
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/project/mine/C-Programming/imooc/chapter04/cmake-build-debug-mingw-64
