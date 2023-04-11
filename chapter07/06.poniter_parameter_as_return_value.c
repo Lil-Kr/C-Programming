@@ -26,9 +26,8 @@ int SumIntArray2(int array[], int length, int *sum) {
 int main() {
 
 	int array[] = {0, 1, 2, 3, 4, 5};
-	int sum2;
-	int a = SumIntArray(array, 6);
-	int b = SumIntArray2(array, 6, &sum2);
+	int sum1 = SumIntArray(array, 6);
+	int sum2 = SumIntArray2(array, 6, &sum2);
 	PRINT_INT(sum2);
   return 0;
 }
