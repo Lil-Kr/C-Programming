@@ -43,19 +43,23 @@ int main() {
 	int j = i++;
 	int k = ++i;
 
+
 	printf("i: %d \n", i);
 	printf("j: %d \n", j);
 	printf("k: %d \n", k);
 
-
   /**
-   * bit操作
+   * bit操作, 涉及到开关
    * &
    * |
    * ^
    * ~
    * _Bool is_enabled = true;
    */
+	int flag_1 = 0x1;
+	int flag_2 = 0x2;
+
+	printf("flag_1 & flag_2: %d\n",~flag_1);
 
   /**
    * 移位运算
@@ -66,9 +70,8 @@ int main() {
 #define FLAG_TRANSPARENT 1 << 1
 #define FLAG_RESIZABLE 1 << 2
 
-  int x = 100;
-  x << 1;
-  printf("x 左移: %d\n", x);
+	int x = 100;
+  printf("x 左移: %d\n", x << 1);
 
   return 0;
 }

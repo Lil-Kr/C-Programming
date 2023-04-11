@@ -2,7 +2,11 @@
 #include "io_utils.h"
 
 /**
+ * 指针也是一种类型
+ *
+ *
  * 指针变量是指向其他变量的
+ *
  * @return
  */
 int main() {
@@ -15,16 +19,23 @@ int main() {
    * * &p == 指针自己的地址
    */
   int a = 10;
-  int *p = &a;
+  int *p = &a;// *p 存的是 a的地址
 
+	PRINT_HEX(p);
+	PRINT_INT(sizeof(int *));//
   PRINT_INT(a);
   PRINT_INT(*p == a);
   PRINT_INT(p == &a);
 
+	/**
+	 * 定义指针的指针
+	 */
+	 int *pp = &p;
+
   /**
    *
    */
-   *p = 30;
+	*p = 30;
   PRINT_INT(*p);
   PRINT_INT(a);
 
@@ -47,7 +58,6 @@ int main() {
    */
   int const *const ccp = &a;
   // *ccp = 2;  // 不能被修改
-
 
   return 0;
 }

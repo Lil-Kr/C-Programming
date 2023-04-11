@@ -21,7 +21,7 @@ int main() {
 
   /**
    * 此时 *p 已经完成了一个读取操作
-   *
+   * 把a的值读取出来了
    */
   int b = *p;
 
@@ -32,8 +32,8 @@ int main() {
 	int array[4] = {90,32,45,15, 48, 51};
 	int *pa = array;// OK
 	*pa = 2;// OK
-  	PRINT_INT(*pa);
+	PRINT_INT(*pa);
 	*pa++ = 3;// ctrl + w, 先选中的部分就是先结合的部分, 这个操作是往后移1位, *(pa++)
 
-  	return 0;
+	return 0;
 }
