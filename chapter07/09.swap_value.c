@@ -20,14 +20,20 @@ int Swap2Int(int *a, int *b) {
 	*b = temp;
 }
 
-void Swap(void *first, void *second, size_t size){
+/**
+ * 通用版本
+ * @param first
+ * @param second
+ * @param size
+ */
+void Swap(void *first, void *second, size_t size) {
 	void *temp = malloc(size);
 
 	if (temp) {
 		memcpy(temp, first, size);
 		memcpy(first, second, size);
 		memcpy(second, temp, size);
-
+		// 释放内存
 		free(temp);
 	} else {
 
@@ -42,14 +48,14 @@ int main() {
 	int a = 0;
 	int b = 1;
 
-	double x = 3.0;
-	double y = 4.0;
-
-	Swap2Int(&a, &b);
+//	Swap2Int(&a, &b);
+	Swap(&a, &b, sizeof(int));
 
 	PRINT_INT(a);
 	PRINT_INT(b);
 
+	double x = 3.0;
+	double y = 4.0;
 	Swap(&x, &y, sizeof(double));
 
 	PRINT_DOUBLE(x);

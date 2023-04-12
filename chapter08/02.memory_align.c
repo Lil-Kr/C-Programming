@@ -5,20 +5,22 @@
 
 
 /**
+ * 结构体的内存对齐
  *
  * @return
  */
-
-
 int main() {
 
 	typedef struct Student {
 		char *id;
-		char *name;
 		int age;
+		char *name;
 	} Student;
 
-	struct Student student = {"001", "cy"};
-	student.age;
+	/**
+	 * 结构体的字段部剧与内存息息相关
+	 */
+	struct Student student = {.id="001", .name="cy"};
+	student.age = 12;
 	return 0;
 }
