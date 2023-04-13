@@ -12,14 +12,18 @@ int main () {
 
 	/**
 	 * atox
-	 * 转换过程中
+	 * 字符串转换到数值类型过程的API
 	 */
-	PRINT_INT(atoi("1234"));// 1234
-	PRINT_INT(atoi("-1234"));// -1234
-	PRINT_INT(atoi("1234abcd"));// 1234
-	PRINT_INT(atoi("0x10"));
+	PRINT_INT(atoi("1234")); // 1234
+	PRINT_INT(atoi("-1234")); // -1234
+	PRINT_INT(atoi("1234abcd")); // 1234
+	PRINT_INT(atoi("0x10")); // 16
 
-	PRINT_DOUBLE(atof("12.34"));
+	PRINT_DOUBLE(atof("12.34")); // 12.34
+	PRINT_DOUBLE(atof("-12e34")); // -1.2e+35
+	PRINT_DOUBLE(atof("    1.234abcd")); // 1.234
+	PRINT_DOUBLE(atof("0x10")); //
+	PRINT_DOUBLE(atof("0x10p3.7")); //
 
 	/**
 	 * 其他转换api
@@ -28,7 +32,7 @@ int main () {
 	 * strtoX: 可重复解析, 更安全, 功能更强大
 	 * ![image.png](https://upload-images.jianshu.io/upload_images/13213920-0a58ec4bafaebfda.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 	 */
-//	strtol();
+
 
 	return 0;
 }
