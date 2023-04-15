@@ -12,7 +12,7 @@
 void DoHardWork() {
 	double sum = 0;
 	for (int i = 0; i < 10000000; ++i) {
-		sum += i * i / PI;
+//		sum += i * i / PI;
 	}
 	PRINT_DOUBLE(sum);
 }
