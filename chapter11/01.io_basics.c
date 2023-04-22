@@ -10,6 +10,7 @@
 
 /**
  * 输入 / 输出流
+ * ![image.png](https://upload-images.jianshu.io/upload_images/13213920-b666ac1bbf779e7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
  */
 int main() {
 
@@ -21,11 +22,15 @@ int main() {
 	if (file) {
 		puts("open success");
 
-		// 文件读写错误
+		/**
+		 * 文件读写错误
+		 */
 		int err = ferror(file);
 		PRINT_INT(err);
 
-		// 判断文件是否已经结束了
+		/**
+		 * 判断文件是否已经结束了
+		 */
 		int eof = feof(file);
 		PRINT_INT(eof);
 
@@ -34,7 +39,7 @@ int main() {
 		PRINT_INT(errno);
 	}
 
-	for (int i = 0; i < 10; ++i) {
+	for (int i = 0; i < 10; i++) {
 		PRINT_INT(i);
 		puts(strerror(i));
 	}
